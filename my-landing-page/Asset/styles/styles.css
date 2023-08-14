@@ -3,8 +3,7 @@
     padding: 0;
 }
 body{
-    font-family: 'Montserrat', sans-serif;
-}
+    font-family: 'Poppins', sans-serif;}
 /* CSS can be added to HTML documents in 3 ways:
 Inline - by using the style attribute inside HTML elements.
 Internal - by using a <style> element in the <head> section.
